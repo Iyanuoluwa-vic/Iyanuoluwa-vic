@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iyanuoluwa-vic&label=Profile%20views&color=0e75b6&style=flat" alt="iyanuoluwa-vic" /> </p>
 
 # 💫About Me :
-- 🔭 I’m currently working on **a cool project**
+- 🔭 I’m currently working on **A COOL PROJECT**
 
 - 🌱 I’m currently learning **MEARN**
 
