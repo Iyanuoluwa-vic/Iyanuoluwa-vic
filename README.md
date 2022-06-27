@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
-# Connect with me:
+# 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-adeyeri-026884226/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/lolVictorA)
 
 # Languages and Tools:
