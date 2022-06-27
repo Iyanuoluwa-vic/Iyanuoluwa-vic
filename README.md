@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Victor Adeyeri</h1>
+
+<h1 align="center"><img src="https://github.com/Iyanuoluwa-vic/Iyanuoluwa-vic/blob/main/assets/text.gif" alt="hi, i am victor"></h1>
+
 <h3 align="center">A passionate Software Engineer from USA</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-mobile.jpg">
 
