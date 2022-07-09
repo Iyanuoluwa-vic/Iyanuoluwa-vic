@@ -1,8 +1,13 @@
 
 <p align="center"><img src="https://github.com/Iyanuoluwa-vic/Iyanuoluwa-vic/blob/main/assets/text%20(1).gif" alt="hi, i am victor"></p>
 
-<h3 align="center">A passionate Software Engineer from USA</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-mobile.jpg">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4500&lines=A+Software+Engineer;Nice+to+meet+you%F0%9F%98%80;Check+out+my+website;To+see+my+projects">
+  </a>
+</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iyanuoluwa-vic&label=Profile%20views&color=0e75b6&style=flat" alt="iyanuoluwa-vic" /> </p>
 
