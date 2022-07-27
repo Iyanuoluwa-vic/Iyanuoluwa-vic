@@ -9,8 +9,13 @@
 </h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iyanuoluwa-vic&label=Profile%20views&color=0e75b6&style=flat" alt="iyanuoluwa-vic" /> </p>
-[![wakatime](https://wakatime.com/badge/github/Iyanuoluwa-vic/Backroads-Tour-Company.svg)](https://wakatime.com/badge/github/Iyanuoluwa-vic/Backroads-Tour-Company)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iyanuoluwa-vic&label=Profile%20views&color=0e75b6&style=flat" alt="iyanuoluwa-vic" /> 
+
+</p>
+
+[![wakatime](https://wakatime.com/badge/user/7b27c1b2-5296-4199-9428-941e033a9d60.svg)](https://wakatime.com/@7b27c1b2-5296-4199-9428-941e033a9d60)
+
+
 
 # 💫About Me :
 
