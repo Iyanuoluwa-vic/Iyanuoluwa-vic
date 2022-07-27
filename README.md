@@ -10,6 +10,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iyanuoluwa-vic&label=Profile%20views&color=0e75b6&style=flat" alt="iyanuoluwa-vic" /> </p>
+[![wakatime](https://wakatime.com/badge/github/Iyanuoluwa-vic/Backroads-Tour-Company.svg)](https://wakatime.com/badge/github/Iyanuoluwa-vic/Backroads-Tour-Company)
 
 # 💫About Me :
 
