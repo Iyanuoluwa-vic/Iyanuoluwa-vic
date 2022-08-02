@@ -13,7 +13,6 @@
 
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/7b27c1b2-5296-4199-9428-941e033a9d60.svg)](https://wakatime.com/@7b27c1b2-5296-4199-9428-941e033a9d60)
 
 
 
